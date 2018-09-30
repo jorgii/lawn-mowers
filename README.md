@@ -1,5 +1,8 @@
 # Lawn Mowers Processor
 
+[![Build Status](https://travis-ci.org/jorgii/lawn-mowers.svg?branch=master)](https://travis-ci.org/jorgii/lawn-mowers)
+
+
 ## Requirements
 
 * python >= 3
